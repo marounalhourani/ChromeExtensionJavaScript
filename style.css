@@ -20,8 +20,9 @@ button {
   padding: 10px 20px;
   background-color: #5f9331;
   color: white;
-  border: none;
   font-weight: bold;
+  border: 2px solid #5f9331;
+
 }
 
 ul {
@@ -36,4 +37,10 @@ a{
 
 li {
   margin-top: 5px;
+}
+
+#delete-btn {
+  background-color: transparent;
+  color: #5f9331;
+
 }
